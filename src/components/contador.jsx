@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function Contador() {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState();
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -10,7 +10,7 @@ function Contador() {
 
   const [incrementar, setIncrementar] = useState(() => 1);
 
-  const incrementarCount = () => setCount((prev) => prev + incrementar);
+  const incrementarCount = () => setCount((prev) => prev + Number(incrementar));
 
   // const incrementar = () => setCount((prev) => prev + 1);
 
@@ -49,7 +49,7 @@ function Contador() {
                      focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/30 outline-none 
                      transition-all shadow-inner"
           value={incrementar}
-          onChange={(e) => setIncrementar(Number(e.target.value))}
+          onChange={(e) => setIncrementar(e.target.value)}
           required
         />
         <button
