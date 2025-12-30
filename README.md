@@ -1,18 +1,75 @@
-# React + Vite
+# ⚡ Contador Personalizado Neon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Repo Size](https://img.shields.io/github/repo-size/williamav28/contadorPersonalizadoNeon?style=for-the-badge&color=purple)](https://github.com/williamav28/contadorPersonalizadoNeon)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Currently, two official plugins are available:
+> **Status do Projeto:** 🟢 Em desenvolvimento (v1.0)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Uma interface minimalista com estética **Cyberpunk/Neon**, desenvolvida para oferecer uma experiência de contagem fluida e totalmente personalizável. O objetivo é permitir que o usuário defina não apenas o valor, mas a "escala" do seu progresso.
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🎨 Preview
 
-Note: This will impact Vite dev & build performances.
+*(Dica: Adicione aqui um GIF ou Print do seu projeto quando estiver com o CSS pronto!)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Funcionalidades
+
+* **Estética Glow:** Design focado em contraste escuro com luzes neon vibrantes.
+* **Incremento Customizável:** Interface preparada para que o usuário escolha de quanto em quanto o contador deve pular (ex: +2, +5, +10).
+* **Simplicidade UX:** Foco total na ação principal sem distrações desnecessárias.
+* **Base Leve:** Construído com tecnologias nativas para performance máxima.
+
+---
+
+## 🛠️ Tecnologias
+
+Este projeto utiliza o "trio de ferro" do desenvolvimento web front-end:
+
+* **HTML5:** Estruturação semântica.
+* **CSS3:** Variáveis CSS (Custom Properties) para gerenciar as cores neon e efeitos de *text-shadow* e *box-shadow*.
+* **JavaScript (Vanilla):** Lógica de incremento/decremento e manipulação de estado em tempo real.
+
+---
+
+## 🚀 Como executar
+
+Se você quiser testar o contador na sua máquina:
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/williamav28/contadorPersonalizadoNeon.git](https://github.com/williamav28/contadorPersonalizadoNeon.git)
+   ```
+2. Acesse a pasta:
+  ``` bash
+    cd contadorPersonalizadoNeon
+```
+3. Inicie o projeto: Basta abrir o arquivo index.html em qualquer navegador moderno.
+
+## 🏗️ Estrutura de Arquivos
+
+/
+├── index.html      # Estrutura principal
+├── style.css       # Estilização e efeitos Neon
+└── script.js      # Lógica de personalização do contador
+
+## 🤝 Contribuindo
+
+Sinta-se à vontade para enviar um Pull Request!
+Faça um Fork do projeto.
+Crie sua Feature Branch (git checkout -b feature/NovaMelhoria).
+Commit suas mudanças (git commit -m 'Adicionando nova funcionalidade').
+Push para a Branch (git push origin feature/NovaMelhoria).
+Abra um Pull Request.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT - consulte o arquivo <u>LICENSE</u> para detalhes.
+
+Desenvolvido com 💜 por williamav28
+
+---
+
+**Dica:** Se você quiser que eu te envie também o código **CSS** para fazer os botões brilharem como Neon de verdade, é só me avisar!
