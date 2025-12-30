@@ -50,11 +50,11 @@ Se você quiser testar o contador na sua máquina:
 
 ## 🏗️ Estrutura de Arquivos
 
-/
+```/
 ├── index.html      # Estrutura principal
 ├── style.css       # Estilização e efeitos Neon
 └── script.js      # Lógica de personalização do contador
-
+```
 ## 🤝 Contribuindo
 
 Sinta-se à vontade para enviar um Pull Request!<br>
