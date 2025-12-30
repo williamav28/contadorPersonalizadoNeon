@@ -57,11 +57,11 @@ Se você quiser testar o contador na sua máquina:
 
 ## 🤝 Contribuindo
 
-Sinta-se à vontade para enviar um Pull Request!
-Faça um Fork do projeto.
-Crie sua Feature Branch (git checkout -b feature/NovaMelhoria).
-Commit suas mudanças (git commit -m 'Adicionando nova funcionalidade').
-Push para a Branch (git push origin feature/NovaMelhoria).
+Sinta-se à vontade para enviar um Pull Request!<br>
+Faça um Fork do projeto.<br>
+Crie sua Feature Branch (git checkout -b feature/NovaMelhoria).<br>
+Commit suas mudanças (git commit -m 'Adicionando nova funcionalidade').<br>
+Push para a Branch (git push origin feature/NovaMelhoria).<br>
 Abra um Pull Request.
 
 ## 📄 Licença
