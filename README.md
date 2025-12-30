@@ -11,7 +11,7 @@ Uma interface minimalista com estética **Cyberpunk/Neon**, desenvolvida para of
 
 ## 🎨 Preview
 
-![Preview do Contador](assets/screenshot.png)
+![Preview do Contador](assets/Screenshot.png)
 
 ---
 
