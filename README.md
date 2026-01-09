@@ -26,7 +26,7 @@ Uma interface minimalista com estética **Cyberpunk/Neon**, desenvolvida para of
 
 ## 🛠️ Tecnologias
 
-Este projeto utiliza o "trio de ferro" do desenvolvimento web front-end:
+Este projeto utiliza as tecnologias fundamentais do desenvolvimento front-end:
 
 * **HTML5:** Estruturação semântica.
 * **CSS3:** Variáveis CSS (Custom Properties) para gerenciar as cores neon e efeitos de *text-shadow* e *box-shadow*.
@@ -68,7 +68,7 @@ Abra um Pull Request.
 
 Este projeto está sob a licença MIT - consulte o arquivo <u>LICENSE</u> para detalhes.
 
-Desenvolvido com 💜 por williamav28
+Desenvolvido com 💜 por William Alves
 
 ---
 
